@@ -1,0 +1,24 @@
+= Version 1.0.0 =
+* Initial Release
+
+= Version 1.0.2 =
+* Theme Description is updated.
+
+= Version 1.0.4 =
+* Fixed minor coding issues.
+
+= Version 1.0.5 =
+* Fixed minor coding issues.
+* Screenshot is updated.
+
+= Version 1.0.6 =
+* Fixed coding issues.
+* Improved coding.
+* Improved accessibility.
+
+= Version 1.0.7 =
+* Fixed minor coding issues.
+
+= Version 1.0.8 =
+* Fixed coding issues.
+* Theme customizer updated.
